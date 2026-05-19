@@ -6,8 +6,7 @@ been missed 92% of the time.
 
 ---
 
-## Project Structure
-
+```
 nhs-ae-breach-risk/
 │
 ├── nhs_ae_breach_risk.ipynb        # Full Python and SQL analysis
@@ -21,6 +20,7 @@ nhs-ae-breach-risk/
     ├── chart2_yearly_performance.png
     ├── chart3_seasonality.png
     └── chart4_gap_from_target.png
+```
 
 ---
 
@@ -92,5 +92,7 @@ sqlite3       | SQL querying
 ## Author
 
 Suyog Patil
+
 Data Analyst — Sheffield, UK
+
 github.com/patilsuyog1994
